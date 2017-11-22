@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="false"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters=""
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2017-11-22T10:40:19.6116201-08:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/ExcelFiles/Marketing project plan1.xlsx"
+      AbsoluteSource="file:///C:/Users/dspencer/Desktop/ExcelFiles/Marketing project plan1.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Data.css"
+      TimeStamp="22-Nov-17 10:40:14 AM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/People.css"
+      TimeStamp="22-Nov-17 10:40:14 AM" />
+    <Url
+      Source="../../Content/Marketing project plan1/Marketing Plan Data.htm"
+      TimeStamp="22-Nov-17 10:40:17 AM" />
+    <Url
+      Source="../../Content/Marketing project plan1/List Data.htm"
+      TimeStamp="22-Nov-17 10:40:17 AM" />
+    <Url
+      Source="../TOCs/Marketing project plan1.fltoc"
+      TimeStamp="22-Nov-17 10:40:17 AM" />
+  </GeneratedFiles>
+</MsExcelImport>

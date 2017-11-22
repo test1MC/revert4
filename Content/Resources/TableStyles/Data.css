@@ -1,0 +1,844 @@
+/* MadCap Table Style: */
+
+/*<meta sourceDocument="C:\Users\dspencer\Desktop\ExcelFiles\Marketing project plan1.xlsx" Version="9" />*/
+
+mcTableStyle
+{
+	name: Data;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+	max-id: 1;
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: #595959;
+}
+
+mcTableColumnStyle
+{
+	separator-style: solid;
+	separator-width: 3px;
+	separator-color: #FFFFFF;
+	name: Column1;
+	id: 1;
+}
+
+mcTableHeadStyle
+{
+	name: Header1;
+	id: 1;
+	span: 1;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+	separator-style: solid;
+	separator-width: 3px;
+	separator-color: #595959;
+}
+
+mcTableBodyStyle
+{
+	separator-style: solid;
+	separator-width: 3px;
+	separator-color: #FFFFFF;
+	name: Body1;
+	id: 1;
+	span: 1;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+}
+
+mcTableBodyStyle
+{
+	separator-style: solid;
+	separator-width: 3px;
+	separator-color: #FFFFFF;
+	name: Body2;
+	id: 2;
+	span: 1;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+}
+
+mcTableFootStyle
+{
+	name: Footer1;
+	id: 1;
+	span: 1;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: bold;
+	separator-style: solid;
+	separator-width: 3px;
+	separator-color: #595959;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-Data
+{
+	border-bottom-style: solid;
+	border-bottom-color: #595959;
+	border-bottom-width: 3px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-Data-Column-Column1
+{
+	
+}
+
+.TableStyle-Data-Head-Header1
+{
+	
+}
+
+.TableStyle-Data-HeadI-Column1-Header1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadI-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadE-Column1-Header1
+{
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #595959;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-HeadE-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadF-Column1-Header1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #595959;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-HeadF-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadH-Column1-Header1
+{
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadH-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadD-Column1-Header1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #595959;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-HeadD-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadC-Column1-Header1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadC-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadB-Column1-Header1
+{
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadB-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadA-Column1-Header1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadA-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadG-Column1-Header1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-HeadG-Column1-Header1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-Foot-Footer1
+{
+	
+}
+
+.TableStyle-Data-FootI-Column1-Footer1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootI-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootE-Column1-Footer1
+{
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	border-top-width: 3px;
+	border-top-color: #595959;
+	border-top-style: solid;
+}
+
+.TableStyle-Data-FootE-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootF-Column1-Footer1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	border-top-width: 3px;
+	border-top-color: #595959;
+	border-top-style: solid;
+}
+
+.TableStyle-Data-FootF-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootH-Column1-Footer1
+{
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootH-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootD-Column1-Footer1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	border-top-width: 3px;
+	border-top-color: #595959;
+	border-top-style: solid;
+}
+
+.TableStyle-Data-FootD-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootC-Column1-Footer1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootC-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootB-Column1-Footer1
+{
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootB-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootA-Column1-Footer1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootA-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootG-Column1-Footer1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-FootG-Column1-Footer1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-Data-Body-Body1
+{
+	
+}
+
+.TableStyle-Data-BodyI-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyI-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyE-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+}
+
+.TableStyle-Data-BodyE-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyF-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-BodyF-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyH-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+}
+
+.TableStyle-Data-BodyH-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyD-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-BodyD-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyC-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyC-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyB-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+}
+
+.TableStyle-Data-BodyB-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyA-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyA-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyG-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyG-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-Body-Body2
+{
+	
+}
+
+.TableStyle-Data-BodyI-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyI-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyE-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+}
+
+.TableStyle-Data-BodyE-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyF-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-BodyF-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyH-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+}
+
+.TableStyle-Data-BodyH-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyD-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 3px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Data-BodyD-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyC-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyC-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyB-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-right-width: 3px;
+	border-right-color: #FFFFFF;
+	border-right-style: solid;
+}
+
+.TableStyle-Data-BodyB-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyA-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyA-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyG-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-Data-BodyG-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
